@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praiz_dev
+- 👋 Hi, I’m Praise
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning Javascript and React.
 - 💞️ I’m looking to collaborate on frontend projects.
