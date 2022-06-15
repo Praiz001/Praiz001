@@ -1,6 +1,6 @@
-## Hi, I am Praise. 👋  
+## Hi! Praise here. 👋  
 I am a frontend developer.  
-Some technologies I enjoy working with for now includes: HTML, CSS, JAVASCRIPT & REACT.  
+Some technologies I enjoy working with for now includes: HTML, CSS, TailwindCSS, JAVASCRIPT, REACT, VueJs and NuxtJs.  
 I'm strongly commited to growth hence I keep learning to be better than yesterday. 🌱  
 I’m looking to collaborate on frontend projects. 💞️  
 
