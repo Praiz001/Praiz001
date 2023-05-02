@@ -1,7 +1,7 @@
 ## Hi! Praise here. 👋  
 Frontend developer with a passion for building innovative web apps.  
 Always eager to learn and work on projects that push the boundaries of technology.  
-I have extensive experience in utilizing technologies such as HTML, CSS, TailwindCSS, JavaScript, ReactJs, Redux, ReduxToolkit, RestAPI, VueJs, and NuxtJs to create high-performance and visually stunning web applications.  
+I have extensive experience in utilizing technologies such as HTML, CSS, SCSS, TailwindCSS, JavaScript, TypeScript, ReactJs, NextJs, ReduxToolkit, VueJs, and NuxtJs to create high-performance and visually stunning web applications.  
 I'm always on the lookout for exciting new projects to collaborate on and make a difference.  
 Let's turn your vision into reality!
 
