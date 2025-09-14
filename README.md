@@ -1,12 +1,14 @@
-## Hi! Praise here. 👋  
-Frontend developer with a passion for building innovative web apps.  
-Always eager to learn and work on projects that push the boundaries of technology.  
-I have extensive experience in utilizing technologies such as HTML, CSS, SCSS, TailwindCSS, JavaScript, TypeScript, ReactJs, NextJs, ReduxToolkit, VueJs, and NuxtJs to create high-performance and visually stunning web applications.  
-I'm always on the lookout for exciting new projects to collaborate on and make a difference.  
-Let's turn your vision into reality!
+## Hey, I'm Praise
 
-## You can reach me via 📫  
-* LinkedIn: http://linkedin.com/in/oshilim-praise-kelechi-4039aa10a 
+**Fullstack Software Engineer   ||   AI Enthusiast**    
+
+I’m a Software Engineer with 4+ years of experience designing and building scalable, high-performance web applications, with a strong focus on the client side. 
+Currently expanding into backend and AI/ML to deliver smarter, end-to-end products.
+
+### Let’s Connect 📫  
+- [LinkedIn](https://linkedin.com/in/oshilim-praise-kelechi-4039aa10a)  
+- [Email](mailto:oshilimpraisek@gmail.com)  
+- [X](https://x.com/praise_kel)
 
 <!---
 Praiz001/Praiz001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
